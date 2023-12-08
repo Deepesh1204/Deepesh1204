@@ -19,6 +19,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Best Practices of ReactJS with TypeScript](https://dev.to/deepeshk1204/best-practices-of-reactjs-with-typescript-24p4)
+- [Write Unit tests using ChatGPT](https://dev.to/deepeshk1204/unit-tests-with-chatgpt-14ge)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
